@@ -1,1 +1,32 @@
-site_name: My Docs
+site_name: AR. Портфолио Python
+
+# Навигация (укажите свои страницы)
+nav:
+  - Главная: index.md
+  - Проекты: projects.md
+
+
+theme:
+  name: material
+  palette:
+    # Светлая тема (Material default)
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Переключить на тёмную тему
+
+    # Тёмная тема (Material slate) с цветами, напоминающими Dracula
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Переключить на светлую тему
+
+# Плагины
+plugins:
+  - search
+  # - mkdocs_pymdownx_material_extras
+
