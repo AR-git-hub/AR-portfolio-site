@@ -1,9 +1,13 @@
 site_name: AR. Портфолио Python
 
-# Навигация (укажите свои страницы)
+# Навигация
 nav:
-  - Главная: index.md
-  - Проекты: projects.md
+- Главная: index.md
+- Об авторе: about.md
+- Проекты:
+    - 1. Cтатический сайт-портфолио на основе mkdocs: projects/project_1.md
+    - 2. Проект 2: projects/project_2.md
+    - 3. Проект 3: projects/project_3.md
 
 
 theme:
