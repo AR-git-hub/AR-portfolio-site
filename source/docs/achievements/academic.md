@@ -11,6 +11,7 @@
 
 ## Учебные проекты
 ### **Веб-приложение для финансового учета с CRM**  
+  [Ссылка на скринкаст](https://drive.google.com/file/d/1xyzNKwsxyZnU5rjV0yUYL_MwyF-Rd0qM/view)
   Руководитель: Жуков Николай Николаевич
 
   Стек: Flask, HTML/CSS/JS, Jinja2.  
@@ -42,4 +43,5 @@
 Решения учебных задач и проектов. Например, сайт для подписки на курсы валют API ЦБ РФ (ЛР7-ЛР9)
 
   [GitHub](https://github.com/AR-git-hub/ITMO.py)
+
 
