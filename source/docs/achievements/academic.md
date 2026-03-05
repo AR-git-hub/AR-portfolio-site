@@ -32,12 +32,13 @@
 
   *BPMN-диаграмма:* 
 
-  ![BPMN](img\image3.png)
+  ![BPMN](img/image3.png)
   
   *Код:* 
 
-  ![Mermaid-код](img\image.png)
+  ![Mermaid-код](img/image.png)
 
 ### **Репозиторий с лабораторными работами по Python**
 Решения учебных задач и проектов. Например, сайт для подписки на курсы валют API ЦБ РФ (ЛР7-ЛР9)
+
   [GitHub](https://github.com/AR-git-hub/ITMO.py)
