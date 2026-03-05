@@ -3,11 +3,11 @@ site_name: AR. Портфолио Python
 # Навигация
 nav:
 - Главная: index.md
-- Об авторе: about.md
-- Проекты:
-    - 1. Cтатический сайт-портфолио на основе mkdocs: projects/project_1.md
-    - 2. Проект 2: projects/project_2.md
-    - 3. Проект 3: projects/project_3.md
+- Достижения:
+    - Учебные достижения: achievements/academic.md
+    - Исследовательская деятельность: achievements/research.md
+    - Общественная и организаторская: achievements/social.md
+    - Культурно-творческие достижения: achievements/cultural.md
 
 
 theme:
