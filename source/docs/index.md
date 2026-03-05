@@ -22,5 +22,6 @@
 
 - [GitHub](https://github.com/AR-git-hub)
 
-- [Телеграмм](https://t.me/ARmusicRnR)
+- [Телеграмм]([https://t.me/ARmusicRnR](https://t.me//chanelnameARmusicRnR))
+
 
