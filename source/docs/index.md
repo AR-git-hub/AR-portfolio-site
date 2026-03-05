@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Рябков Александр
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Мотивированный студент программы «Нейротехнологии и Программирование».
 
-## Commands
+Активно участвую в учебной, научной и общественной жизни университета. Здесь собраны мои достижения для участия в стипендиальной программе.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Структура сайта-резюме
 
-## Project layout
+Достижения:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [**Учебные**](achievements/academic.md)
+
+- [**Исследования**](achievements/research.md)
+
+- [**Общественная деятельность**](achievements/social.md)
+
+- [**Творчество**](achievements/cultural.md)
+
+---
+
+## Обратная связь
+
+- [GitHub](https://github.com/AR-git-hub)
+
+- [Телеграмм](https://t.me/ARmusicRnR)
+
