@@ -20,7 +20,11 @@
 
 ## Обратная связь
 
+- [Телеграмм](https://t.me/chanelnameARmusicRnR)
+
+- [Почта](mailto:riabkovsasha2707@gmail.com)
+
 - [GitHub](https://github.com/AR-git-hub)
 
-- [Телеграмм](https://t.me/chanelnameARmusicRnR)
+
 
