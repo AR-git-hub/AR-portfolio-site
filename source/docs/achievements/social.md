@@ -11,7 +11,7 @@
 ## Дополнительные компетенции
 - Победа в «Тренинге предпринимательских компетенций» – лидер команды победителей. 
 *Превью: ![](img/image.png)*
-*Сертификат: [сертификат](pdf/https___study-techtraining.mipt.ru_api_v1_files_StRykhkWRf4CzHJ78.pdf)*
+[Сертификат](pdf/https___study-techtraining.mipt.ru_api_v1_files_StRykhkWRf4CzHJ78.pdf)*
 
 
 ## Посещение конференций и мероприятий
