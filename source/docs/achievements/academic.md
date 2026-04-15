@@ -12,19 +12,19 @@
 ## Хакатоны
 - **Хакатон от ГПН** – оценка за проект 5.0. Обучение BERT для классификации корпоративных писем.
 
-- [GitHub](https://github.com/AR-git-hub/GPN_Hackaton_ARTeam)
+  - [GitHub](https://github.com/AR-git-hub/GPN_Hackaton_ARTeam)
 
 ![Изображения](img/hak1.png)![img2](img/hak2.png)![img3](img/hak3.png)
 
 - **Хакатон «ИТМО х СБЕР х ПРОСТО»** - финалист. Мультиагентная система с богатым пулом тулов для ассистирования работы химика-органика в научной лаборатории. 
 
-- [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas),
-- [Сертификат]("pdf/сертификат Александру Рябкову.pdf")
+  - [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas),
+  - [Сертификат]("pdf/сертификат Александру Рябкову.pdf")
 
 ![Изображения](img/image1.png)![схема MAS](img/MAS_scheme_1.png)
 
 - **Хакатон «СБЕР Риски»** – мультиагентная система feature-engineering для CatBoost.
-- [GitHub](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering).
+  - [GitHub](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering).
 
 ![Изображения](img/photo_2026-04-10_15-37-54.jpg)![пояснения](img/photo_2026-04-10_15-37-55.jpg)
 
