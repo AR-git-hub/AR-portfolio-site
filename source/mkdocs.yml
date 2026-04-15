@@ -1,0 +1,36 @@
+site_name: AR. Портфолио Python
+
+# Навигация
+nav:
+- Главная: index.md
+- Достижения:
+    - Учебные достижения: achievements/academic.md
+    - Исследовательская деятельность: achievements/research.md
+    - Общественная и организаторская: achievements/social.md
+    - Культурно-творческие достижения: achievements/cultural.md
+
+
+theme:
+  name: material
+  palette:
+    # Светлая тема (Material default)
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Переключить на тёмную тему
+
+    # Тёмная тема (Material slate) с цветами, напоминающими Dracula
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Переключить на светлую тему
+
+# Плагины
+plugins:
+  - search
+  # - mkdocs_pymdownx_material_extras
+
