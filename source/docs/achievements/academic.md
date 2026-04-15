@@ -12,7 +12,7 @@
 ## Хакатоны
 - **Хакатон от ГПН** – оценка за проект 5.0. Обучение BERT для классификации корпоративных писем.
 
-  - [GitHub](https://github.com/AR-git-hub/GPN_Hackaton_ARTeam)
+  -- [GitHub](https://github.com/AR-git-hub/GPN_Hackaton_ARTeam)
 
 ![Изображения](img/hak1.png)![img2](img/hak2.png)![img3](img/hak3.png)
 
@@ -51,11 +51,11 @@
 
   *BPMN-диаграмма:* 
 
-  ![BPMN](img\imageвыа3.png)
+  ![BPMN](img/imageвыа3.png)
   
   *Код:* 
 
-  ![Mermaid-код](img\image333.png)
+  ![Mermaid-код](img/image333.png)
 
 ### **Репозиторий с лабораторными работами по Python**
 Решения учебных задач и проектов. Например, учебно-исследовательские работы с scikit-learn (второй семестр, LR5 и LR6) или сайт для подписки на курсы валют API ЦБ РФ (первый семестр, ЛР7-ЛР9).
