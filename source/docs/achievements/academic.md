@@ -14,10 +14,10 @@
 
 - **Хакатон «ИТМО х СБЕР х ПРОСТО»** - финалист. Мультиагентная система с богатым пулом тулов для ассистирования работы химика-органика в научной лаборатории. [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas),
 [Сертификат]("pdf/сертификат Александру Рябкову.pdf")
-![Изображения](img/image1.png)![схема MAS](img/MAS_scheme_1)
+![Изображения](img/image1.png)![схема MAS](img/MAS_scheme_1.png)
 
 - **Хакатон «СБЕР Риски». Мультиагентная система feature-engineering для CatBoost. [GitHub](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering).
-![Изображения](img/photo_2026-04-10_15-37-54)![пояснения](img/photo_2026-04-10_15-37-55)
+![Изображения](img/photo_2026-04-10_15-37-54.jpg)![пояснения](img/photo_2026-04-10_15-37-55.jpg)
 
 ## Учебные проекты
 ### **Веб-приложение для финансового учета с CRM**  
