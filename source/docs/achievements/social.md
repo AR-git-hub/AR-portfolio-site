@@ -24,6 +24,7 @@
 
 - **Тимлид разработки MAS** для CatBoost feature-engineering. [GitHub](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering).
 - **Тимлид разработки MAS** для ассистирования работы химика-органика в научной лаборатории. [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas).
+- **Тимлид на хакатоне «Нефтекод» от Газпромнефти** – руководил командой и развернул сложную DeepSets-подобную set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
 - **Тимлид проекта по разработке сайта для финансового учета с CRM** – управлял процессом создания веб-приложения на Flask, включая backend и frontend. Организовывал работу, контролировал дедлайны, вел коммуникацию
 - **Тимлид на хакатоне ГПН** – руководил командой при обучении BERT для классификации корпоративных писем. Координировал задачи, распределял роли, отвечал за итоговую презентацию. Оценка проекта: 5.0 (100 баллов)
 [GitHub](https://github.com/AR-git-hub/GPN_Hackaton_ARTeam)
