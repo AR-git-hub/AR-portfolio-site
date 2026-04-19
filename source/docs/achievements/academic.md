@@ -22,7 +22,7 @@
 ![Изображения](img/photo_2026-04-10_15-37-54.jpg)![пояснения](img/photo_2026-04-10_15-37-55.jpg)
 
 - **Хакатон «Нефтекод» от Газпромнефти** – DeepSets-подобная set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
-![Изображения](img/neftekod.png)
+![Изображения](img/neftekod 2.png)
 
 
 ## Учебные проекты
