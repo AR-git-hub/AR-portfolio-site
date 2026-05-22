@@ -8,6 +8,22 @@
 ## Хакатоны
 
 
+- **Всероссийский Хакатон «СБЕР Риски»** – 5 место среди 100 команд разработчиков СБЕРа и студентов – [агент для чтения и ответов на вопросы по крупным научным статьям (100+ страниц)ee – на финальном туре](https://github.com/AR-git-hub/SBER-Finale) и [мультиагентная система feature-engineering для CatBoost – отборочный тур](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering). 
+
+![Финал](img/sber_finale.png)
+![Отбор](img/photo_2026-04-10_15-37-54.jpg)
+![Сертификат финалиста]()
+
+ПРИКРЕПИТЬ ФОТО
+
+- **Хакатон от ГПН** – 1 место. Продвинутый PDF-Parser: роутинг с помощью Docling LayoutPredictor в VLM (Llama 3.2 11B Vision) & EasyOCR
+![Примеры распозноваемых документов](img/image54.png)
+![Примеры распозноваемых документов](img/image55.png)
+ПРИКРЕПИТЬ ФОТО
+![Пайплайн](img/image53.png)
+![Сертификат победителя](img/ГПН_топ1.pdf)
+
+
 - **Хакатон «ИТМО х СБЕР х ПРОСТО»** - финалист. Мультиагентная система с богатым пулом тулов для ассистирования работы химика-органика в научной лаборатории. 
 
 [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas),
@@ -15,12 +31,9 @@
 
 ![Изображения](img/image1.png)![схема MAS](img/MAS_scheme_1.png)
 
-- **Всероссийский Хакатон «СБЕР Риски»** – 5 место среди 100 команд разработчиков СБЕРа и студентов – [агент для чтения и ответов на вопросы по крупным научным статьям (100+ страниц) – на финальном туре](https://github.com/AR-git-hub/SBER-Finale) и [мультиагентная система feature-engineering для CatBoost – отборочный тур](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering). 
 
-![Финал](img/sber_finale.png)
-![Отбор](img/photo_2026-04-10_15-37-54.jpg)
 
-- **Хакатон «Нефтекод» от Газпромнефти** – 16 место из 100 DeepSets-подобная set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
+- **Хакатон «Нефтекод» от Газпромнефти** – 16 место из 100. DeepSets-подобная set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
 ![Изображения](img/neftekod_3.png)
 
 
