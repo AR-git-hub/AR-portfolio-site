@@ -28,10 +28,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material
-          # Если у тебя есть другие плагины (например, для диаграмм), добавь их сюда
-          # или создай файл requirements.txt и раскомментируй следующую строку:
-          # pip install -r requirements.txt
+          # pip install mkdocs mkdocs-material
+          
+          pip install -r requirements.txt
 
       - name: Build site
         run: mkdocs build --config-file source/mkdocs.yml -d ../docs
