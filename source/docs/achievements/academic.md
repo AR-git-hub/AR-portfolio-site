@@ -32,12 +32,12 @@
 - **Хакатон «Нефтекод» от Газпромнефти** – 16 место из 100. DeepSets-подобная set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
 ![Изображения](img/neftekod_3.png)
 
+- **Хакатон «Градиент Роста» от X5 Tech** – предсказание РТО магазинов сети «Пятёрочка» на комплексном ИИ-подходе (основа – LightGBM), результат по метрике MAPE 89.8/100. [GitHub](https://github.com/AR-git-hub/Retail-Sales-Predictor)
+![Сертификат](img/сертификат_градиент_роста.png)
 
 - **Хакатон от ГПН** – оценка за проект 5.0. Обучение BERT для классификации корпоративных писем. [GitHub](https://github.com/AR-git-hub/GPN_Hackaton_ARTeam)
 
 ![Изображения](img/hak1.png)![img2](img/hak2.png)![img3](img/hak3.png)
-
-
 
 
 ## Учебные проекты
