@@ -5,19 +5,10 @@
 
 - **Стипендиат ГПН** «Спецтрека ДС» программ «Нейротехнологии и Программирование» и «Инженерии Искуственного Интеллекта» (**единственный прошел со своего направления**). 
 
-
-## Докладчик на научной конференции SBAS Forum
-ML дифференциация намерений непокупателей в e-commerce: поведенческие архетипы пользователей.
-
-**Постер:** [Постер](pdf/Постер_AR.pdf)
-![Фотоотчет](img/photo_2026-05-21_10-30-10.jpg)
-![Сертификат](img/сертификат_SBAS_Forum.png)
-
 ## Хакатоны
 
 
 - **Хакатон от ГПН** – 1 место. Продвинутый PDF-Parser: роутинг с помощью Docling LayoutPredictor в VLM (Llama 3.2 11B Vision) & EasyOCR
-![Сертификат победителя](pdf/ДС_ГПН.png)
 ![Пайплайн](img/image53.png)
 ![Примеры распознаваемых документов](img/image54.png)
 ![Примеры распознаваемых документов](img/image55.png)
@@ -34,14 +25,14 @@ ML дифференциация намерений непокупателей в
 ![Сертификат](img/сертификат_нефтекод.png)
 
 - **Хакатон от Норникеля AI Science Hack**  – генеративная СППР проверяемых технологических гипотез с обоснованием из источников и возможностью экспертной корректировке на каждом из этапов создания гипотез.
-[GitHub] (https://github.com/AR-git-hub/Scientific-Discovery-MAS-Metallurgy.git).
+[GitHub](https://github.com/AR-git-hub/Scientific-Discovery-MAS-Metallurgy.git).
 ![Изображения](img/image_nor_1.png)![](img/image_nor_2.png)
-![Сертификат](pdf/Сертификат_норникель.pdf)
+![Сертификат](img/НОРНИКЕЛЬ.png)
 
 - **Хакатон «ИТМО х СБЕР х ПРОСТО»** - финалист. Мультиагентная система с богатым пулом тулов для ассистирования работы химика-органика в научной лаборатории. 
 
 [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas),
-[Сертификат]("pdf/Neftekod.pdf").
+[Сертификат](pdf/neftekod.pdf).
 ![Изображения](img/image1.png)![схема MAS](img/MAS_scheme_1.png)
 ![Сертификат](img/сертификат_инфохимия_просто.png)
 
@@ -60,7 +51,7 @@ ML дифференциация намерений непокупателей в
 
   Стек: Flask, HTML/CSS/JS, Jinja2.  
   
-  [GitHub](https://github.com/KirillPetukhov1/python_1sem_hakaton?tab=readme-ov-file) ![]()
+  [GitHub](https://github.com/KirillPetukhov1/python_1sem_hakaton?tab=readme-ov-file)
 
 
 ### **Работа по криптографии** 
