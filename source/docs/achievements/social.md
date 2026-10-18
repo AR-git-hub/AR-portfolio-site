@@ -26,7 +26,7 @@
 «Деловая игра «Технологические лидеры» (13.04.2026 Университет
 ИТМО / ИТМО-к) 2»)
 *Превью: ![](img/image52.png)*
-[Сертификат](pdf/https___study-techtraining.mipt.ru_api_v1_files_StRykhkWRf4CzHJ78.pdf)
+[Сертификат](img/https___study-techtraining.mipt.ru_api_v1_files_StRykhkWRf4CzHJ78.pdf)
 
 ## Посещение конференций и мероприятий
 Регулярное участие в конференциях и митапах, в том числе:
@@ -38,7 +38,7 @@
 - **Тимлид команды победителей** на хакатоне от ГПН. Руководил разработкой продвинутого pdf-парсера: роутинг с помощью Docling LayoutPredictor в VLM (Llama 3.2 11B Vision) & EasyOCR.
 - **Тимлид разработки MAS** для CatBoost feature-engineering. [GitHub](https://github.com/AR-git-hub/AI-agent-for-Feature-Engineering).
 - **Тимлид разработки MAS** для ассистирования работы химика-органика в научной лаборатории. [Sourcecraft](https://sourcecraft.dev/chem-mas-assistant/langgraphmas).
-- **Тимлид на хакатоне «Нефтекод» от Газпромнефти** – руководил командой и развернул сложную DeepSets-подобную set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
+- **Тимлид на хакатоне «Нефтекод» от Газпром Нефти** – руководил командой и развернул сложную DeepSets-подобную set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
 - **Тимлид на хакатоне PochtaTech от Почты России** – управлял процессом создания ML-сервиса по автоматизации разбора обращений в техподдержку. Функционал: классификация на 15 видов, маршрутизация на линию поддержки, прогноз SLA, поиск похожих кейсов, аналитические BI-инструменты по письмам и работе сервиса. [GitHub](https://github.com/AR-git-hub/Pochtatech-Hackathon)
 - **Тимлид на хакатоне AI Science Hack от Норникеля** – руководил командой для создания комплексного сервиса по обоснованной генерации технологических гипотез по имеющемуся корпусу знаний (генеративная СППР). [GitHub](https://github.com/AR-git-hub/Scientific-Discovery-MAS-Metallurgy.git).
 - **Тимлид проекта по разработке сайта для финансового учета с CRM** – управлял процессом создания веб-приложения на Flask, включая backend и frontend. Организовывал работу, контролировал дедлайны, вел коммуникацию.
