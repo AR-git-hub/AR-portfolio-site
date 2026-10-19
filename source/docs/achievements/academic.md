@@ -28,7 +28,7 @@
 ![Отбор](img/photo_2026-04-10_15-37-54.jpg)
 ![Сертификат финалиста](img/сертификат_риски.png)
 
-- **Хакатон «Нефтекод» от Газпром Нефти** – 16 место из 100. DeepSets-подобная set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
+- **Хакатон «Нефтекод» от Газпром Нефти** – 16 место. DeepSets-подобная set-модель для предсказания 2 регрессионных целей DOT (химический анализ). [GitHub](https://github.com/AR-git-hub/Chemistry-Daimler-Oxidation-Prediction).
 ![Изображения](img/neftekod_3.png)
 ![Сертификат](img/сертификат_нефтекод.png)
 
@@ -62,12 +62,6 @@
   
   [GitHub](https://github.com/KirillPetukhov1/python_1sem_hakaton?tab=readme-ov-file)
 
-
-### **Работа по криптографии** 
-Шифры Хилла и кода Хэмминга. Оформление в LaTeX.  
-
-  [PDF отчет](pdf/Math.pdf)
-  ![preview](img/image11.png)
 
 ### **Мегашкола ИТМО. Система генерации Mermaid-кода из диаграмм BPMN/UML**  
   Преобразование изображений бизнес-процессов в код Mermaid и текстовое описание.  
